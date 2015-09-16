@@ -1,0 +1,1 @@
+this.Tether = Npm.require('tether');
